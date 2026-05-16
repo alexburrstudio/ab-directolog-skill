@@ -143,9 +143,8 @@ YANDEX_ACCESS_TOKEN=your_access_token
 
 ---
 
-💰 **Support / Поддержать**
+💰 Support 
 
-Если скилл оказался полезен:
-
-🥝 **TON:** @AlexBurrOne
-💳 **Т-БАНК:** https://www.tbank.ru/cf/3CfaY0mpVIt
+🥝 **TON: UQDHLFkZo0dJzYLm7QJr6Xx8iKvrrailZa2eXdX41dvRlyfr
+🥝 **USDT TRC20: TE1mVDUueHmhHNF57x1PZfEkAe6qgorHZc
+💳 **T-BANK: https://www.tbank.ru/cf/3CfaY0mpVIt
